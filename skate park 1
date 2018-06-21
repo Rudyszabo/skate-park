@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+
+<title>Stewy's Skate Park</title>
+
+<head>
+		
+		 <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+		
+	<style type="text/css">
+	
+	
+	
+	body{
+		
+		/*background picture*/
+	background-image: url("stewyskatepark.jpg");
+	background-size: 300px 300px;
+    height:800px;
+	}
+	
+					/*center picture*/
+	#container{
+		background-image: url("skatepark10.jpg");
+		background-color: lightgrey;
+	height: 700px;
+    width: 1000px;
+    border: 25px solid white;
+    padding: 25px;
+    margin: auto;
+		
+	}
+	
+					/*jumbotron*/
+	.container{
+		background-image: url("skatepark10.jpg");
+		background-color: lightgrey;
+	height: 300px;
+    width: 1000px;
+    border: 25px solid white;
+    padding: 25px;
+    margin: auto;
+		
+	}
+	
+	</style>
+
+
+</head>
+
+<body>
+
+		
+	  <div class="container">
+		<h1 style="color:white;" class="display-4"><strong>STEWY'S SKATE PARK</strong></h1>
+		<p style="color:white;" class="lead"><strong>Great little Skate Park</strong></p>
+	  
+	</div>
+
+		<ul>
+	  <li><a href="#home">Home</a></li>
+	  <li><a href="#news">News</a></li>
+	  <li><a href="#contact">Contact</a></li>
+	  <li><a href="#about">About</a></li>
+	</ul>
+	
+	<div id="container">
+	
+	
+	</div>
+
+
+
+
+
+
+</body>
+
+</html>
